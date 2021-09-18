@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,ZEE TV
+https:\\d2q8p4pe5spbak.cloudfront.net\bpk-tv\ZEETV\ZEETV.isml\index.m3u8
+#EXTINF:-2,AAJ TAK
+https:\\feeds.intoday.in\aajtak\api\aajtakhd\master.m3u8
